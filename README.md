@@ -15,7 +15,7 @@ In our repository, the files and scripts are organized as follows:
  - [Comparison](Comparison.ipynb):
  - [VPN SF](VPN_SF.ipynb):
 
- - [VNAT](VNAT): Contains the datasets we generated throught our research.
+ - [VNAT](VNAT): Contains the datasets we generated throughout our research.
 
 ## Documentation
 
