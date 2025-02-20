@@ -5,8 +5,7 @@ To ensure reproducibility, please refer to the original dataset when using this 
 
 Dataset Source: https://www.ll.mit.edu/r-d/datasets/vpnnonvpn-network-application-traffic-dataset-vnat
 
-Reference Paper for the dataset: S. Jorgensen et al., "Extensible Machine Learning for Encrypted Network Traffic Application Labeling via Uncertainty Quantification," in IEEE Transactions on Artificial Intelligence, vol. 5, no. 1, pp. 420-433, Jan. 2024, doi: 10.1109/TAI.2023.3244168.
-keywords: {Predictive models;Uncertainty;Data models;Virtual private networks;Machine learning;Encryption;Discrete wavelet transforms;Cybersecurity;discrete wavelet transform;encrypted traffic;machine learning (ML);network traffic classification;uncertainty quantification;virtual private networks (VPNs)},
+Reference Paper for the dataset: Jorgensen et al., "Extensible Machine Learning for Encrypted Network Traffic Application Labeling via Uncertainty Quantification," IEEE Transactions on Artificial Intelligence, vol. 5, no. 1, pp. 420-433, 2024. [DOI: 10.1109/TAI.2023.3244168]
 
 ## Repository Structure
 
