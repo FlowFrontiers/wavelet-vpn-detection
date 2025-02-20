@@ -2,7 +2,9 @@
 
 This repository contains all the digital artifacts associated with the paper **"Binary VPN Traffic Detection Using Wavelet Features and Machine Learning"** 
 
-To ensure reproducibility, please refer to the original dataset when using this repository. The dataset and related sources are cited below:
+To ensure reproducibility, please refer to the original dataset when using this repository. 
+
+The dataset and related sources are cited below:
 
 Dataset Source: https://www.ll.mit.edu/r-d/datasets/vpnnonvpn-network-application-traffic-dataset-vnat
 
